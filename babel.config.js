@@ -7,7 +7,7 @@ module.exports = function (api) {
   ]
 
   const ignore = [
-    '**/universe/node_modules/'
+    '**/xxxx/node_modules/'
   ]
 
   return {
